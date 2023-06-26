@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d70bf3e3.css",
+    "main.js": "/static/js/main.125b22dc.js",
+    "static/media/me.png": "/static/media/me.070ebe1aa92296bd9f48.png",
+    "static/media/avatar1.png": "/static/media/avatar1.b919756f7f00114e7ca8.png",
+    "static/media/cafe.Updated.png": "/static/media/cafe.Updated.7426a97ce1792cd42d9a.png",
+    "static/media/aboutMe.jpg": "/static/media/aboutMe.c973a20ecc54124e7579.jpg",
+    "static/media/avatar2.png": "/static/media/avatar2.fe99e9635c478f96c3a6.png",
+    "static/media/goodluckTechnologies.png": "/static/media/goodluckTechnologies.2f911861adaecf511fd2.png",
+    "static/media/portfolio5.png": "/static/media/portfolio5.c5c03c988acdb04c5755.png",
+    "static/media/portfolio6.png": "/static/media/portfolio6.5bea7e5439e47829f47e.png",
+    "static/media/ims.png": "/static/media/ims.3b72ffdb22e4f70960f1.png",
+    "static/media/resume.pdf": "/static/media/resume.d9ae8ab4474708c98e16.pdf",
+    "static/media/charlie.png": "/static/media/charlie.81e4b9c7e28e31609e58.png",
+    "static/media/avatar4.png": "/static/media/avatar4.999d386cd9ef58cc5d99.png",
+    "index.html": "/index.html",
+    "main.d70bf3e3.css.map": "/static/css/main.d70bf3e3.css.map",
+    "main.125b22dc.js.map": "/static/js/main.125b22dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70bf3e3.css",
+    "static/js/main.125b22dc.js"
+  ]
+}
